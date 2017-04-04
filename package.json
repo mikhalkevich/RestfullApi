@@ -19,9 +19,9 @@
   "author": "olatunde garuba",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/generalgmt/RESTfulAPITutorial/issues"
+    "url": "https://github.com/mikhalkevich/RestfullApi/issues"
   },
-  "homepage": "https://github.com/generalgmt/RESTfulAPITutorial#readme",
+  "homepage": "https://github.com/mikhalkevich/RestfullApi#readme",
   "devDependencies": {
     "nodemon": "^1.11.0"
   },
