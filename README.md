@@ -1,7 +1,7 @@
-## Nodejs in 10 minutes
+## Restful Api Node.js, Mongo
 
 clone the project
-
+start mongo
 ### Installations
 * npm install
 
@@ -9,4 +9,6 @@ clone the project
 
 * npm run start
 
-:)
+### Send post
+on page http://localhost:3000/tasks/ send post name=test
+It is posible to do with Postman
